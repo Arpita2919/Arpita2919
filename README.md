@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpita2919" alt="arpita2919" /></a> </p>
 
+- 🔭 I’m currently working on [My GitHub PortFolio](github.com/Arpita2919)
+
 - 🌱 I’m currently learning **JavaScript, DSA and Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Frontend Web Development projects**
+- 👯 I’m looking to collaborate on [Frontend Web Development projects](github.com/Arpita2919)
 
 - 🤝 I’m looking for help with [Data Structures & Algorithm](https://leetcode.com/u/ArpitaRaj_08/)
 
